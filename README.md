@@ -7,7 +7,7 @@
 
 <br>
 
-Hi, I'm [Aditya Prabhu](https://adityaprabhucs.github.io/AdityaPrabhu/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product and research guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I Swim and read.
+Hi, I'm [Aditya Prabhu](https://adityaprabhucs.github.io/AdityaPrabhu/), a developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product and research guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I Swim and read.
 
 <br>
 
